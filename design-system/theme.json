@@ -1,1 +1,44 @@
+{
+  "version": 2,
+  "settings": {
+    "typography": {
+      "fontFamily": {
+        "custom": "Roboto, sans-serif"
+      },
+      "fontSizes": [
+        {
+          "name": "Small",
+          "size": "18px"
+        },
+        {
+          "name": "Medium",
+          "size": "20px"
+        },
+        {
+          "name": "Large",
+          "size": "48px"
+        }
+      ]
+    },
+    "color": {
+      "palette": [
+        {
+          "name": "Heading Color",
+          "slug": "heading-color",
+          "color": "#222222"
+        },
+        {
+          "name": "Paragraph Color",
+          "slug": "paragraph-color",
+          "color": "#000000"
+        },
+		{
+          "name": "SubHead Color",
+          "slug": "SubHead-color",
+          "color": "#913D2E;"
+        }
+      ]
+    }
+  }
+}
 
